@@ -1,18 +1,13 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=Venom&color=timeAuto&text=JihyoungHAN) 
-</div>
+![header](https://capsule-render.vercel.app/api?type=Venom&color=timeAuto&text=JihyoungHAN) 
 
-<br/>
-## Programming Language Skills <br/>
-### Programming Language <br/>
-//Python
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-//C
-//C#
-//github
-//Unity 
-//
+## Programming Language Skills 
+### Programming Language
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c%23&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+
+
+
 
 
 <!--
