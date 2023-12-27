@@ -1,10 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=timeAuto&text=JihyoungHAN) 
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Venom&color=C5DEFA&text=JihyoungHAN) 
+</div>
 
-## Programming Language Skills 
-### Programming Language
+<h3><b> ⌨️Programming Languages </b></h3>
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+</p>
 
+<h3><b> 📚Libraries </b></h3>
+<p>
+<img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge">  
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c%23&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<h3><b> 🎮Game </b></h3>
+<p>
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> 
+</p>
+
+<h3><b> 🦾MI </b></h3>
+<p>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+</p>
 
 
 
